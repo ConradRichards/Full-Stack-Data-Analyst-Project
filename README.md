@@ -15,7 +15,9 @@ They stated the problem is _____.   And they also have seen high no show patient
 
 ### Skills & Systems/Tools Used:
 Big Query: SQL, Debugging (syntax corrections, code revewing)
+
 Google Collabatory: Python, Debugging (syntax corrections, code revewing)
+
 Tableau: Data Vizulation Tools Tableau 
 
 ### Results & Business Recommendation:
