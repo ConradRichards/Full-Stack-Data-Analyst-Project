@@ -29,3 +29,4 @@ HAVING cnt > 1;
 CREATE OR REPLACE TABLE `project-f9729ec1-30aa-4c06-beb.Health_Care_Funnel_Analysis.Funnel Analysis` AS
 SELECT DISTINCT * FROM `project-f9729ec1-30aa-4c06-beb.Health_Care_Funnel_Analysis.Funnel Analysis`;
 SELECT COUNT(*) FROM `project-f9729ec1-30aa-4c06-beb.Health_Care_Funnel_Analysis.Funnel Analysis`;
+![image](14 day+ Schedule Advance  SQL Validate Via Sequence Analysis.png)
