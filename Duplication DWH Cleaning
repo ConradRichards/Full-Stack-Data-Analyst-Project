@@ -1,0 +1,31 @@
+SELECT 
+  Medicare, 
+  `In Netowrk`, 
+  Medicaid,
+  `Showed up`,
+  `no show`,
+  canceled,
+  `Acholism `,
+  diabieties,
+  `hyper tension`,
+  handicap,
+  `contact information`,
+  `SMS or Email Reminder`,
+  Neighbourhood,
+  Age,
+  `Appointment Time`,
+  `appointment type`,
+  AppointmentDay,
+  ScheduledDay,
+  Gender,
+  Provider,
+  AppointmentID,
+  PatientId,
+  COUNT(*) as cnt
+FROM 
+  `project-f9729ec1-30aa-4c06-beb.Health_Care_Funnel_Analysis.Funnel Analysis`
+GROUP BY ALL
+HAVING cnt > 1;
+CREATE OR REPLACE TABLE `project-f9729ec1-30aa-4c06-beb.Health_Care_Funnel_Analysis.Funnel Analysis` AS
+SELECT DISTINCT * FROM `project-f9729ec1-30aa-4c06-beb.Health_Care_Funnel_Analysis.Funnel Analysis`;
+SELECT COUNT(*) FROM `project-f9729ec1-30aa-4c06-beb.Health_Care_Funnel_Analysis.Funnel Analysis`;
