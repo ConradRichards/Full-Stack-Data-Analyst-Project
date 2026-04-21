@@ -10,7 +10,7 @@ They stated the problem is _____.   And they also have seen high no show patient
 3. Doing an segment by demension analysis in BigQuery to analyze the relationship between on the amount of no shows compared the amount of SMS or Email Reminders sent out or not sent out. Using Contengecy table (cross-tabulation)/conditional count to segment the data.
 4. Implenting a validate via sequence anlaysis To validate appointments scheduled exactly or more than 14 days in advance since the optimal booking window is between 0-2 weeks and anything after that can generate cancelation due to forgetting the appointment time or scheduling conflicts.
 5. Doing an segment by demension analysis in BigQuery to analyze the relationship between on the amount of handicap patients compared the amount of canceled appointments by handicap patients.
-6. Do A/b testing specifically Stastical Significance and creating a null hypothesis and alternative hypothesis inlcuding a Chi-Test and T-Test To confirm findings.
+6. Do A/b testing specifically Stastical Significance and creating a null hypothesis and alternative hypothesis as well as contigency tables and stastical testing such a Chi Square Test and T-Test To confirm findings to determine if the differences between groups are statistically significant.  focuses on translating these findings into a rigorous, actionable experiment.
 7. Data Visulation to Show Case the findings
 
 ### Skills & Systems/Tools Used:
