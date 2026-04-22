@@ -22,4 +22,4 @@ Google Collabatory: Python, Debugging (syntax corrections, code revewing)
 Tableau: Data Vizulation Tools Tableau 
 
 ### Results & Business Recommendation:
-by doing this it should show actional insights and increase in revenue and fix pipeline issues.
+The suggestion that will be made based upon impact due to the metrics and analsyis is _____ by doing this it should show actional insights and increase in revenue and fix pipeline issues.
