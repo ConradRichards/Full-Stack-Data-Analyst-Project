@@ -1,7 +1,7 @@
 # Full-Stack-Data-Analyst-Project
 Healthcare Revenue Analytics &amp; Operations Diagnostics
 ### Exceutive Summary: 
-They stated the problem is _____.   And they also have seen high no show patient appointment rate as well in the EHR system when rescheduling and booking patients. Asking teh 5 W's Why (Why are we cleaning the data), What (What specific tables/columns/rows/column values are cause the bottleneck issue), Who (who is responsible for the data), and lastly When (When did this issue start). The synhtetic data was pulled from AI CLAUDE and Manually Adjusted in excel for a preceise Messy data set to clean in SQL.
+A group practice of primary care physcians stated that ____ They stated the problem is _____.   And they also have seen high no show patient appointment rate as well in the EHR system when rescheduling and booking patients. Asking teh 5 W's Why (Why are we cleaning the data), What (What specific tables/columns/rows/column values are cause the bottleneck issue), Who (who is responsible for the data), and lastly When (When did this issue start). The synhtetic data was pulled from AI CLAUDE and Manually Adjusted in excel for a preceise Messy data set to clean in SQL.
 
 ### the duplication sql dwh sql is what leads into the null values sql. deleteing duplcaite ppl to then filling in the correct nullvalues i guess  not really
 
