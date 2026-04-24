@@ -17,7 +17,7 @@ A multispecailty group practice family medicine clinic stated that they were hav
 7. Data Visulation to Show Case the findings
 
 ### Skills & Systems/Tools Used:
-Big Query: SQL, Debugging (syntax corrections, code revewing)
+Big Query: SQL, Debugging (syntax corrections, code revewing), Data Manupliation Language
 
 Google Collabatory: Python, Debugging (syntax corrections, code revewing)
 
