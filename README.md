@@ -20,7 +20,7 @@ Big Query: SQL, Complex Data Cleaning & Preprocessing, Debugging (syntax correct
 
 Google Collabatory: Python, Inferential Statistics & Modeling, Regression Analysis, Time Series Forecasting, Debugging (syntax corrections, code revewing), ad-hoc analysis, Advance Statistical Analysis
 
-Tableau: Data Vizulation, Data Modeling, ETL/ELT, Data Transformation
+Tableau: Data visualization, Data Modeling, ETL/ELT, Data Transformation
 
 ### Results & Business Recommendation:
 Based upon the p-value be below 0.05 in our test from our hypothesis for the cause of loss of revenue in the year of 2025 compared to 2024 this indiacates that are statistically signficant and we can reject the null hypothesis as this is not due to chance. The suggestion that will be made based upon impact due to the metrics and analysis is to only scheduled patients within a 14 day period due to a high canceletion rate in the year of 2025 for patients having scheduled over 14 days in advance and having to cancel. The next thing is to send reminder text/emails to patients as this is a high reason for the amount of no shows in the year of 2025. Lastly when taking on handicap patients there is a high chance for cancelation due to transportation issues as this was the case in the year of 2025 which can be compared to the year of 2024 as well but overlooked due to the revenue made in the year of 2024. A solution to this is depending on the appointment type for the patient, a telehealth visit would be ideal to avoid cancelation issues. By doing these things it should show actional insights and increase revenue and fix pipeline issues.
